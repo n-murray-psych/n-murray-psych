@@ -1,7 +1,8 @@
 ---
-title: Why Its Good to Discipline Children for Lying: Speculations on Theory of Mind
-date: 2024-02-03
+title: Test title
+date: 2021-06-16
 ---
+
 Psychologists define theory of mind as [“...the ability to attribute mental states…to ourselves and others.”](https://www.simplypsychology.org/theory-of-mind.html) It is the capacity to know that other people have their own subjective experiences, thoughts, and so on.
 
 Theory of mind (ToM) develops in children between 4 and 6 years of age. You can observe the development of ToM by playing hide and seek with a toddler, and watch how they get better at the game as they grow older. Toddlers seem to think that if they can’t see you, you can’t see them, so they hide in really stupid places like this:
