@@ -49,6 +49,10 @@ highlight_name: true
 website: ""
 ---
 
+Nicholas Murray is a second year MSc Psychiatry Research student at Dalhousie University. Supervised by Dr. Sandra Meier and Dr. JianLi Wang, 
+
+Nicholas's thesis research involves using the PROSIT mobile sensing phone app to objectively compare anxious symptoms and behaviours in youth and adults. He is also interested in attention (particularly social attention, including gaze-cuing) and motives for potentially problematic behaviours.
+
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
 distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
