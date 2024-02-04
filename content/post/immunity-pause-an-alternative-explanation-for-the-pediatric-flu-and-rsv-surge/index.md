@@ -1,6 +1,9 @@
 ---
 title: "Immunity-Pause: An Alternative Explanation for the Pediatric Flu and RSV Surge"
 date: 2022-11-12
+tags:
+  - Subject Matter Unknown
+  - COVID-19
 ---
 
 *Disclaimer: I am **not an epidemiologist** or a medical doctor. I am simply a psychiatry research student with a slightly-above-undergradute-level understanding of statistics, and a background in the philosophy of science – both of which I am relying entirely upon to write this blog post.*
