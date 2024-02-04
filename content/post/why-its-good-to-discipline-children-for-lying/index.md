@@ -1,5 +1,5 @@
 ---
-title: Test title
+title: Why It's Good to Discipline Children For Lying: Speculations on Theory of Mind
 date: 2021-06-16
 ---
 
