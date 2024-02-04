@@ -19,6 +19,10 @@ Burns, H., Hurst, A., Garay, P., **Murray, N.E.**, Stewart, S.H., Mejia, J., Bag
 
 **Murray, N.E.** (2023). Schizophrenia and the Attention Network Test: A Meta-Analysis [Manuscript in preparation]. Department of Psychiatry, Dalhousie University.
 
+# Published Conference Abstracts
+
+Klein, R.M., Feltmate, B., Ishigami, Y., & **Murray, N.E.** Is There One “Beam” of Attention for Searching in Space and Time? [Conference presentation abstract]. Journal of Vision, 22(14):4106. https://doi.org/10.1167/jov.22.14.4106
+
 # Oral Conference Presentations
 
 **Murray,N.E.**,Marin-Dragu,S.,Cormier,M.,Sheikh,S.,Mamani,G.M.,Li,S.,Muzamil,M.,Bagnell,A.,Sherry,S.B., Orji, R., Stewart, S.H., Meier, S.M. (2023). Investigating Associations of Social Media Use Motives and Mental Well- Being in Adolescents Not Receiving Mental Health Treatment [Oral presentation]. Dalhousie University Department of Psychiatry Research Day, Halifax, NS.
