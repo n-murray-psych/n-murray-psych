@@ -1,6 +1,6 @@
 ---
-title: "Why Its Good to Discipline Children for Lying: Speculations on Theory of Mind"
-date: "2024-06-16"
+title: Why Its Good to Discipline Children for Lying: Speculations on Theory of Mind
+date: 2024-06-16
 ---
 Psychologists define theory of mind as [“...the ability to attribute mental states…to ourselves and others.”](https://www.simplypsychology.org/theory-of-mind.html) It is the capacity to know that other people have their own subjective experiences, thoughts, and so on.
 
