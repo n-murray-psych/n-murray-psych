@@ -6,8 +6,6 @@ Psychologists define theory of mind as [“...the ability to attribute mental st
 
 Theory of mind (ToM) develops in children between 4 and 6 years of age. You can observe the development of ToM by playing hide and seek with a toddler, and watch how they get better at the game as they grow older. Toddlers seem to think that if they can’t see you, you can’t see them, so they hide in really stupid places like this:
 
-![screen render text](blog_image.jpg "Image Credit: Mommy Shorts")
-
 Children realize as they get older that they need to hide where you can’t see them, so they pick better hiding spots. Eventually, they’re as good or better than you at hide and seek. Hide and seek shows, then, that a toddler can’t comprehend that you see and know things differently than they do, but as young children they obtain this capacity. By the time you’re struggling to find your kid in your own house, they know that you experience life from a different perspective, and with different beliefs about the world.
 
 Another way in which children demonstrate ToM is through lying. Psychologist Dr. Kang Lee at the University of Toronto has demonstrated that around 2 years old, toddlers start telling white lies, and they get better at telling more complex lies as they enter early childhood. In order to lie, a child must know that another person knows differently about a given situation than they do. For example, if a child lied to me about whether he ate my cookies, he would have to know that I do not know for sure whether he in fact ate my cookies. Lying is ToM in action; a lying child makes use of their knowledge that I know differently than they do.
