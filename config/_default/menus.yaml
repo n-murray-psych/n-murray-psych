@@ -8,6 +8,6 @@ main:
   - name: Topics
     url: tags/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Publications and Presentations
+    url: publications/
     weight: 30
