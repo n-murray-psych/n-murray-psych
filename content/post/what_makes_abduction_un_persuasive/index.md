@@ -14,15 +14,18 @@ Formally, arguments can take on one of three forms: deduction, induction, and ab
 
 Deductive arguments operate such that necessarily, if the premises are true, then the conclusion must be true. To use a cliche’d example:
 
-Premise 1: Socrates is a man. \n
-Premise 2: All men are mortal. \n
+Premise 1: Socrates is a man.
+
+Premise 2: All men are mortal.
+
 Conclusion: Socrates is mortal.
 
 As you can see, the conclusion is completely obvious from the premises. So as long as the premises are true, the conclusion must be true as a matter of logic. If Socrates were actually a god, for example, then we could doubt the conclusion that Socrates is mortal because the second premise no longer applies to Socrates.
 
 Inductive arguments operate such that, from an observed regularity in the world, we infer some fact about the stability of that regularity. For example:
 
-Premise: Every time I drop my pen, it falls to the ground. \n
+Premise: Every time I drop my pen, it falls to the ground.
+
 Conclusion: Whenever I drop my pen again, it will fall to the ground.
 
 For inductive arguments, we assume, as [David Hume](https://plato.stanford.edu/entries/hume/) explained, that *nature is uniform* – i.e., that regular occurrences are regular because there is something about the world that makes them so. (Just to be clear, Hume was an inductive skeptic and didn’t believe we were justified in assuming nature is uniform, but I digress).
@@ -69,5 +72,6 @@ In Dr. Deisseroth’s *fantastic* 2021 book, [*Projections: A Story of Human Emo
 
 As I’ve argued here, abductive inferences can be un-persuasive when, despite the inferred theory’s capacity to maximize the probability of an observed event, the postulated theory is deemed sufficiently improbable so as to be disregarded. I further argued that it’s all too easy to manipulate others through their perceived lack of prior knowledge to obtain power and privilege. As scientists, we must ethically pursue the truth for the sake of obtaining it. Full stop.
 
-Thank you for reading the ramblings of a young psychological scientist, \n
+Thank you for reading the ramblings of a young psychological scientist,
+
 Nicholas E. Murray
